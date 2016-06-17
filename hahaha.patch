@@ -1,0 +1,17 @@
+Index: jinhoyoon.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- jinhoyoon.py	(revision 6c8a7e3dfb5a17f525327e6e0d0f57759ba3c7aa)
++++ jinhoyoon.py	(revision )
+@@ -4,4 +4,6 @@
+ print(a+b)
+ 
+ c=[1,2,3,4,5]
+-print(c[0])
+\ No newline at end of file
++print(c[0])
++
++print("test")
+\ No newline at end of file
