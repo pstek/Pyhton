@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c262e2-b66d-4746-8467-60d8c959288f" name="Default" comment="hahaha">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jinhoyoon.py" afterPath="$PROJECT_DIR$/jinhoyoon.py" />
-    </list>
+    <list default="true" id="48c262e2-b66d-4746-8467-60d8c959288f" name="Default" comment="hahaha" />
     <list id="e7c2e6c4-0f89-4507-a994-7ab94846ba12" name="Failed commit: Default" comment="hahaha" />
     <ignored path="Pyhton.iws" />
     <ignored path=".idea/workspace.xml" />
